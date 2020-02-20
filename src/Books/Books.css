@@ -8,6 +8,11 @@
     font-weight: 600;
 }
 
+.lander h {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+}
+
 .lander p {
     color: #999;
 }
