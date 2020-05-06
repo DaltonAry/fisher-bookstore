@@ -17,5 +17,4 @@ export default function Authors(props) {
             </div>
         </div>
     );
-
 }
